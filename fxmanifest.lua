@@ -24,7 +24,6 @@ client_scripts {
 
 server_scripts {
 	'server/main.lua',
-	--[[server.lua]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            'temp/.vite.config.js',
 }
 
 files {
